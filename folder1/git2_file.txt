@@ -2,3 +2,5 @@ line1
 line2
 line3
 line 4 - we still dont have the 2nd file of git 2
+
+time 3 by git 2
