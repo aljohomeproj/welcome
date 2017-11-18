@@ -10,3 +10,4 @@ ADD VS COMMIT
 
 START TRAIN
 git1:master:time2
+git1:master:timeEOT
