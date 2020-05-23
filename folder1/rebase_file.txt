@@ -1,2 +1,4 @@
 rebase line 1 branch git2_branch
-rebase line 2 branch git2_branch
+rebase line 2 branch master
+rebase line 3 branch git2_branch
+
